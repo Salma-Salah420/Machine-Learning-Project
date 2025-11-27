@@ -1,6 +1,7 @@
 # Machine-Learning-Project
 Clustering Task
 -------------
+![image](https://github.com/Salma-Salah420/Machine-Learning-Project/blob/c4efd78df8b79caeb4d7cddc594ae9067f7c7f80/1_p9t-VYFneDs6Bt00F1Z8Fw.png)
 🛍️ Customer Segmentation Using K-Means Clustering:
 -----------------------------
 📌 Project Overview:
