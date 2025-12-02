@@ -27,3 +27,4 @@ Analysis & visualization: Understanding the characteristics of each cluster to p
 Outcome:
 The project produces meaningful customer segments that can guide marketing strategies, improve customer targeting, and enhance decision-making in banking operations.
 ------------------
+![image](
