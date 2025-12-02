@@ -28,6 +28,7 @@ Outcome:
 The project produces meaningful customer segments that can guide marketing strategies, improve customer targeting, and enhance decision-making in banking operations.
 ------------------
 ![image](https://github.com/Salma-Salah420/Machine-Learning-Project/blob/a3a13a29dcbad5603df3adccb01f2e439afb6ee0/OIP%20(1).webp)
+
 Second Project is: Student Performance Prediction using Regression 
 ----------------------
 Project: Student Performance Prediction & Analysis System
