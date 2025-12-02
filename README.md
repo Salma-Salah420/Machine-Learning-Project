@@ -27,4 +27,23 @@ Analysis & visualization: Understanding the characteristics of each cluster to p
 Outcome:
 The project produces meaningful customer segments that can guide marketing strategies, improve customer targeting, and enhance decision-making in banking operations.
 ------------------
-![image](
+![image](https://github.com/Salma-Salah420/Machine-Learning-Project/blob/a3a13a29dcbad5603df3adccb01f2e439afb6ee0/OIP%20(1).webp)
+Second Project is: Student Performance Prediction using Regression 
+----------------------
+Project: Student Performance Prediction & Analysis System
+-------------
+Project Overview
+An intelligent regression model that predicts student academic performance based on multiple behavioral, demographic, and academic factors. This system moves beyond traditional grading to identify at-risk students early and provide personalized intervention recommendations.
+-----------------------------
+Problem Statement
+Educational institutions struggle with:
+
+Late Intervention: Identifying struggling students only after poor performance
+
+Generic Support: One-size-fits-all approaches that ignore individual circumstances
+
+Limited Predictive Insight: Reactive rather than proactive academic support
+
+Hidden Patterns: Inability to recognize complex interaction effects between various factors
+----------------------------
+we will use Regression models such as: Linear Regression and ....
